@@ -11,5 +11,7 @@
 //refrence data type
 //array, objects,functions 
 
+//heap(non primitive) stack(primitve)
+
 
 
